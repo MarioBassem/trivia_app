@@ -2,7 +2,6 @@
 This web application is an implementation of one of the projects in Udacity's advanced web application nanodegree program. 
 -----
 
-
 # Full Stack API Final Project
 
 ## Full Stack Trivia
